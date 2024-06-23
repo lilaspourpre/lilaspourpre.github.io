@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lilaspourpre.github.ioirina.nikishina.github.io/sitemap.xml
