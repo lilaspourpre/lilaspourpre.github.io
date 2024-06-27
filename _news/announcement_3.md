@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our [paper](https://arxiv.org/abs/2403.09207) on [TaxoLLaMA](https://huggingface.co/VityaVitalich/TaxoLLaMA-bench) has been accepted to ACL 2024 (main)! :sparkles: 🎉🎉🎉
