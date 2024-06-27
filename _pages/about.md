@@ -6,7 +6,7 @@ subtitle: <a href='#'>Universität Hamburg</a>.
 
 profile:
   align: right
-  image: profilepic.PNG
+  image: profilepic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
