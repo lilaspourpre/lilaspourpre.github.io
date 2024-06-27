@@ -8,8 +8,7 @@ profile:
   align: right
   image: profilepic.png
   image_circular: false # crops the image to make it circular
-  address: >
-  <p>irina.nikishina@uni-hamburg.de</p>
+  address: <p>irina.nikishina@uni-hamburg.de</p>
 
 
 news: true  # includes a list of news items
