@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [paper](https://arxiv.org/abs/2403.09207) on [TaxoLLaMA](https://huggingface.co/VityaVitalich/TaxoLLaMA-bench) has been accepted to ACL 2024 (main)! :sparkles: 🎉🎉🎉
+Our [paper](https://arxiv.org/abs/2403.09207) about [TaxoLLaMA](https://huggingface.co/VityaVitalich/TaxoLLaMA-bench) has been accepted to ACL 2024 (main)! :sparkles: 🎉🎉🎉
