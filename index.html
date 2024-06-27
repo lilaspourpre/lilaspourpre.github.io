@@ -221,7 +221,61 @@
           <!-- Selected papers -->
           <h2><a href="/publications/" style="color: inherit;">selected publications</a></h2>
           <div class="publications">
-            <ol class="bibliography"></ol>
+            <ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="nikishina-etal-2020-studying" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Studying Taxonomy Enrichment on Diachronic WordNet Versions</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Irina Nikishina, Varvara Logacheva, Alexander Panchenko, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Natalia Loukachevitch' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>In Proceedings of the 28th International Conference on Computational Linguistics</em>, Dec 2020
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.18653/v1/2020.coling-main.276"></span>
+              <span class="__dimensions_badge_embed__" data-doi="10.18653/v1/2020.coling-main.276" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Ontologies, taxonomies, and thesauri have always been in high demand in a large number of NLP tasks. However, most studies are focused on the creation of lexical resources rather than the maintenance of the existing ones and keeping them up-to-date. In this paper, we address the problem of taxonomy enrichment. Namely, we explore the possibilities of taxonomy extension in a resource-poor setting and present several methods which are applicable to a large number of languages. We also create novel English and Russian datasets for training and evaluating taxonomy enrichment systems and describe a technique of creating such datasets for other languages.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
           </div>
 
 
