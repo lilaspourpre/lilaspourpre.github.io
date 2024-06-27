@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Have a look to our preprint on MT for Lower-Resourc languages: [arxiv](https://arxiv.org/abs/2406.12564)! It was a fruitful collaboration with ML lab in MBZUAI
+Have a look on our preprint on MT for Lower-Resource languages: [arxiv](https://arxiv.org/abs/2406.12564)! It was a fruitful collaboration with ML lab in MBZUAI
