@@ -1,0 +1,16 @@
+- title: Students
+  type: time_table
+  contents:
+    - title: <a href="https://scholar.google.ae/citations?user=3IDoK8YAAAAJ&hl=en&oi=ao">Viktor Moskvoretskii</a>
+      year: 2022
+      description: Project on enhancing LLM with Taxonomic structures, 
+      led to the paper accepted to LREC-COLING 2024 “Are Large Language Models Good at Lexical Semantics? A Case of Taxonomy Learning”, 
+      to ACL 2024 “TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Sematic Tasks”, 
+      and to preprint “Low-Resource Machine Translation through the Lens of Personalized Federated Learning"
+
+- title: Courses
+  type: time_table
+  contents:
+    - title: Course on Transformers
+      year: 2022 - 2025
+      description: <a href="https://github.com/s-nlp/transformers-course/">github repository</a>, <a href="https://github.com/s-nlp/transformers-course/">paper with the course description, accepted t TeachNLP ACL workshop</a>
