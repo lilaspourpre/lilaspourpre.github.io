@@ -24,54 +24,6 @@
     abstract = "Recent studies on LLMs do not pay enough attention to linguistic and lexical semantic tasks, such as taxonomy learning. In this paper, we explore the capacities of Large Language Models featuring LLaMA-2 and Mistral for several Taxonomy-related tasks. We introduce a new methodology and algorithm for data collection via stochastic graph traversal leading to controllable data collection. Collected cases provide the ability to form nearly any type of graph operation. We test the collected dataset for learning taxonomy structure based on English WordNet and compare different input templates for fine-tuning LLMs. Moreover, we apply the fine-tuned models on such datasets on the downstream tasks achieving state-of-the-art results on the TexEval-2 dataset.",
 }
 
-@inproceedings{DBLP:conf/aist/MaslovaRAZBN23,
-  author       = {Maria Maslova and
-                  Stefan Rebrikov and
-                  Anton Artsishevski and
-                  Sebastian Zaczek and
-                  Chris Biemann and
-                  Irina Nikishina},
-  title        = {RuCAM: Comparative Argumentative Machine for the Russian Language},
-  booktitle    = {{AIST}},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {14486},
-  pages        = {78--91},
-  publisher    = {Springer},
-  year         = {2023},
-  dimensions = {false},
-  bibtex_show = {true}
-}
-
-@article{DBLP:journals/semweb/NikishinaTLNPL22,
-  author       = {Irina Nikishina and
-                  Mikhail Tikhomirov and
-                  Varvara Logacheva and
-                  Yuriy Nazarov and
-                  Alexander Panchenko and
-                  Natalia V. Loukachevitch},
-  title        = {Taxonomy enrichment with text and graph vector representations},
-  journal      = {Semantic Web},
-  volume       = {13},
-  number       = {3},
-  pages        = {441--475},
-  year         = {2022}
-}
-
-@inproceedings{DBLP:conf/aist/SafaryanFYKN20,
-  author       = {Anna Safaryan and
-                  Petr Filchenkov and
-                  Weijia Yan and
-                  Andrey Kutuzov and
-                  Irina Nikishina},
-  title        = {Semantic Recommendation System for Bilingual Corpus of Academic Papers},
-  booktitle    = {{AIST} (Supplement)},
-  series       = {Communications in Computer and Information Science},
-  volume       = {1357},
-  pages        = {22--36},
-  publisher    = {Springer},
-  year         = {2020}
-}
-
 @inproceedings{shallouf-etal-2024-cam-2,
     title = "{CAM} 2.0: End-to-End Open Domain Comparative Question Answering System",
     author = "Shallouf, Ahmad  and
@@ -98,6 +50,24 @@
     dimensions = false,
     bibtex_show=true,
     abstract = "Comparative Question Answering (CompQA) is a Natural Language Processing task that combines Question Answering and Argument Mining approaches to answer subjective comparative questions in an efficient argumentative manner. In this paper, we present an end-to-end (full pipeline) system for answering comparative questions called CAM 2.0 as well as a public leaderboard called CompUGE that unifies the existing datasets under a single easy-to-use evaluation suite. As compared to previous web-form-based CompQA systems, it features question identification, object and aspect labeling, stance classification, and summarization using up-to-date models. We also select the most time- and memory-effective pipeline by comparing separately fine-tuned Transformer Encoder models which show state-of-the-art performance on the subtasks with Generative LLMs in few-shot and LoRA setups. We also conduct a user study for a whole-system evaluation.",
+}
+
+@inproceedings{DBLP:conf/aist/MaslovaRAZBN23,
+  author       = {Maria Maslova and
+                  Stefan Rebrikov and
+                  Anton Artsishevski and
+                  Sebastian Zaczek and
+                  Chris Biemann and
+                  Irina Nikishina},
+  title        = {RuCAM: Comparative Argumentative Machine for the Russian Language},
+  booktitle    = {{AIST}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {14486},
+  pages        = {78--91},
+  publisher    = {Springer},
+  year         = {2023},
+  dimensions = {false},
+  bibtex_show = {true}
 }
 
 @inproceedings{salnikov-etal-2023-large,
@@ -229,6 +199,22 @@
     abstract = "It is often difficult to reliably evaluate models which generate text. Among them, text style transfer is a particularly difficult to evaluate, because its success depends on a number of parameters. We conduct an evaluation of a large number of models on a detoxification task. We explore the relations between the manual and automatic metrics and find that there is only weak correlation between them, which is dependent on the type of model which generated text. Automatic metrics tend to be less reliable for better-performing models. However, our findings suggest that, ChrF and BertScore metrics can be used as a proxy for human evaluation of text detoxification to some extent.",
 }
 
+@article{DBLP:journals/semweb/NikishinaTLNPL22,
+  author       = {Irina Nikishina and
+                  Mikhail Tikhomirov and
+                  Varvara Logacheva and
+                  Yuriy Nazarov and
+                  Alexander Panchenko and
+                  Natalia V. Loukachevitch},
+  title        = {Taxonomy enrichment with text and graph vector representations},
+  journal      = {Semantic Web},
+  volume       = {13},
+  number       = {3},
+  pages        = {441--475},
+  year         = {2022},
+  bibtex_show = {true},
+}
+
 @inproceedings{nikishina-etal-2021-evaluation,
     title = "Evaluation of Taxonomy Enrichment on Diachronic {W}ord{N}et Versions",
     author = "Nikishina, Irina  and
@@ -247,6 +233,18 @@
     dimensions = false,
     bibtex_show=true,
     abstract = "The vast majority of the existing approaches for taxonomy enrichment apply word embeddings as they have proven to accumulate contexts (in a broad sense) extracted from texts which are sufficient for attaching orphan words to the taxonomy. On the other hand, apart from being large lexical and semantic resources, taxonomies are graph structures. Combining word embeddings with graph structure of taxonomy could be of use for predicting taxonomic relations. In this paper we compare several approaches for attaching new words to the existing taxonomy which are based on the graph representations with the one that relies on fastText embeddings. We test all methods on Russian and English datasets, but they could be also applied to other wordnets and languages.",
+}
+
+@inproceedings{DBLP:conf/aist/Nikishina21,
+  author       = {Irina Nikishina},
+  title        = {Taxonomy Enrichment with Text and Graph Vector Representation},
+  booktitle    = {{AIST}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {13217},
+  pages        = {9--19},
+  publisher    = {Springer},
+  year         = {2021},
+  bibtex_show = {true},
 }
 
 @inproceedings{nikishina-etal-2020-studying,
@@ -268,4 +266,73 @@
     selected = true,
     bibtex_show=true,
     abstract = "Ontologies, taxonomies, and thesauri have always been in high demand in a large number of NLP tasks. However, most studies are focused on the creation of lexical resources rather than the maintenance of the existing ones and keeping them up-to-date. In this paper, we address the problem of taxonomy enrichment. Namely, we explore the possibilities of taxonomy extension in a resource-poor setting and present several methods which are applicable to a large number of languages. We also create novel English and Russian datasets for training and evaluating taxonomy enrichment systems and describe a technique of creating such datasets for other languages.",
+}
+
+@inproceedings{DBLP:conf/aist/SafaryanFYKN20,
+  author       = {Anna Safaryan and
+                  Petr Filchenkov and
+                  Weijia Yan and
+                  Andrey Kutuzov and
+                  Irina Nikishina},
+  title        = {Semantic Recommendation System for Bilingual Corpus of Academic Papers},
+  booktitle    = {{AIST} (Supplement)},
+  series       = {Communications in Computer and Information Science},
+  volume       = {1357},
+  pages        = {22--36},
+  publisher    = {Springer},
+  year         = {2020},
+  bibtex_show= {true},
+}
+
+@article{DBLP:journals/corr/abs-2005-11176,
+  author       = {Irina Nikishina and
+                  Varvara Logacheva and
+                  Alexander Panchenko and
+                  Natalia V. Loukachevitch},
+  title        = {RUSSE'2020: Findings of the First Taxonomy Enrichment Task for the
+                  Russian language},
+  journal      = {CoRR},
+  volume       = {abs/2005.11176},
+  year         = {2020},
+  bibtex_show= {true},
+}
+
+@inproceedings{DBLP:conf/aist/SysoevN19,
+  author       = {Andrey Sysoev and
+                  Irina Nikishina},
+  title        = {Deep JEDi: Deep Joint Entity Disambiguation to Wikipedia for Russian},
+  booktitle    = {{AIST}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {11832},
+  pages        = {230--241},
+  publisher    = {Springer},
+  year         = {2019},
+  bibtex_show= {true},
+}
+
+@inproceedings{DBLP:conf/aist/KutuzovN19,
+  author       = {Andrey Kutuzov and
+                  Irina Nikishina},
+  title        = {Double-Blind Peer-Reviewing and Inclusiveness in Russian {NLP} Conferences},
+  booktitle    = {{AIST}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {11832},
+  pages        = {3--8},
+  publisher    = {Springer},
+  year         = {2019},
+  bibtex_show= {true},
+}
+
+@inproceedings{DBLP:conf/aist/NikishinaBK18,
+  author       = {Irina Nikishina and
+                  Amir Bakarov and
+                  Andrey Kutuzov},
+  title        = {RusNLP: Semantic Search Engine for Russian {NLP} Conference Papers},
+  booktitle    = {{AIST}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {11179},
+  pages        = {111--120},
+  publisher    = {Springer},
+  year         = {2018},
+  bibtex_show= {true},
 }
