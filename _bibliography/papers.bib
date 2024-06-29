@@ -48,6 +48,7 @@
     url = "https://aclanthology.org/2024.lrec-main.238",
     pages = "2657--2672",
     dimensions = false,
+    bibtex_show=true,
     abstract = "Comparative Question Answering (CompQA) is a Natural Language Processing task that combines Question Answering and Argument Mining approaches to answer subjective comparative questions in an efficient argumentative manner. In this paper, we present an end-to-end (full pipeline) system for answering comparative questions called CAM 2.0 as well as a public leaderboard called CompUGE that unifies the existing datasets under a single easy-to-use evaluation suite. As compared to previous web-form-based CompQA systems, it features question identification, object and aspect labeling, stance classification, and summarization using up-to-date models. We also select the most time- and memory-effective pipeline by comparing separately fine-tuned Transformer Encoder models which show state-of-the-art performance on the subtasks with Generative LLMs in few-shot and LoRA setups. We also conduct a user study for a whole-system evaluation.",
 }
 
@@ -78,6 +79,7 @@
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.paclic-1.63",
     pages = "635--644",
+    bibtex_show=true,
     dimensions = false
 }
 
@@ -103,7 +105,8 @@
     url = "https://aclanthology.org/2023.findings-ijcnlp.12",
     doi = "10.18653/v1/2023.findings-ijcnlp.12",
     pages = "134--148",
-    dimensions = false
+    dimensions = false,
+    bibtex_show=true
 }
 
 @inproceedings{nikishina-etal-2022-cross,
@@ -129,6 +132,7 @@
     url = "https://aclanthology.org/2022.textgraphs-1.2",
     pages = "11--24",
     dimensions = false,
+    bibtex_show=true,
     abstract = "Taxonomy is a graph of terms organized hierarchically using is-a (hypernymy) relations. We suggest novel candidate-free task formulation for the taxonomy enrichment task. To solve the task, we leverage lexical knowledge from the pre-trained models to predict new words missing in the taxonomic resource. We propose a method that combines graph-, and text-based contextualized representations from transformer networks to predict new entries to the taxonomy. We have evaluated the method suggested for this task against text-only baselines based on BERT and fastText representations. The results demonstrate that incorporation of graph embedding is beneficial in the task of hyponym prediction using contextualized models. We hope the new challenging task will foster further research in automatic text graph construction methods.",
 }
 
@@ -148,6 +152,7 @@
     url = "https://aclanthology.org/2022.aacl-demo.5",
     pages = "39--47",
     dimensions = false,
+    bibtex_show=true,
     abstract = "Taxonomies are widely used in a various number of downstream NLP tasks and, therefore, should be kept up-to-date. In this paper, we present TaxFree, an open source system for taxonomy visualisation and automatic Taxonomy Enrichment without pre-defined candidates on the example of WordNet-3.0. As oppose to the traditional task formulation (where the list of new words is provided beforehand), we provide an approach for automatic extension of a taxonomy using a large pre-trained language model. As an advantage to the existing visualisation tools of WordNet, TaxFree also integrates graphic representations of synsets from ImageNet. Such visualisation tool can be used for both updating taxonomies and inspecting them for the required modifications.",
 }
 
@@ -173,6 +178,7 @@
     doi = "10.18653/v1/2022.humeval-1.8",
     pages = "90--101",
     dimensions = false,
+    bibtex_show=true,
     abstract = "It is often difficult to reliably evaluate models which generate text. Among them, text style transfer is a particularly difficult to evaluate, because its success depends on a number of parameters. We conduct an evaluation of a large number of models on a detoxification task. We explore the relations between the manual and automatic metrics and find that there is only weak correlation between them, which is dependent on the type of model which generated text. Automatic metrics tend to be less reliable for better-performing models. However, our findings suggest that, ChrF and BertScore metrics can be used as a proxy for human evaluation of text detoxification to some extent.",
 }
 
@@ -192,6 +198,7 @@
     url = "https://aclanthology.org/2021.gwc-1.15",
     pages = "126--136",
     dimensions = false,
+    bibtex_show=true,
     abstract = "The vast majority of the existing approaches for taxonomy enrichment apply word embeddings as they have proven to accumulate contexts (in a broad sense) extracted from texts which are sufficient for attaching orphan words to the taxonomy. On the other hand, apart from being large lexical and semantic resources, taxonomies are graph structures. Combining word embeddings with graph structure of taxonomy could be of use for predicting taxonomic relations. In this paper we compare several approaches for attaching new words to the existing taxonomy which are based on the graph representations with the one that relies on fastText embeddings. We test all methods on Russian and English datasets, but they could be also applied to other wordnets and languages.",
 }
 
@@ -214,5 +221,6 @@
     pages = "3095--3106",
     selected=true,
     dimensions = false,
+    bibtex_show=true,
     abstract = "Ontologies, taxonomies, and thesauri have always been in high demand in a large number of NLP tasks. However, most studies are focused on the creation of lexical resources rather than the maintenance of the existing ones and keeping them up-to-date. In this paper, we address the problem of taxonomy enrichment. Namely, we explore the possibilities of taxonomy extension in a resource-poor setting and present several methods which are applicable to a large number of languages. We also create novel English and Russian datasets for training and evaluating taxonomy enrichment systems and describe a technique of creating such datasets for other languages.",
 }
