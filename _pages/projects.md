@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: System Demostrations developed
+description: System Demostrations & Models developed
 nav: true
 nav_order: 2
 display_categories: [Comparative Argumentative Machine, Taxonomy Enrichment]
