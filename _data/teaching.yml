@@ -1,0 +1,85 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Irina Nikishina
+    - name: Date of Birth
+      value: 13th December 1995
+    - name: Languages
+      value: Russian, English, French, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: Skoltech, Moscow, Russia
+      year: 2022
+      supervisor: <a href="https://www.google.com/search?client=safari&rls=en&q=alexander+panchenko&ie=UTF-8&oe=UTF-8">Alexander Panchenko</a>
+      thesis title: <a href="https://www.skoltech.ru/app/data/uploads/2022/09/thesis6.pdf">Learning Linguistic Tree Structures with Text and Graph Methods</a>
+    - title: Master's degree (with honors) in Computational Linguistics
+      institution: HSE University, Moscow, Russia
+      year: 2019
+      supervisor: <a href="https://scholar.google.com/citations?user=3uvZfeYAAAAJ&hl=en&oi=ao">Anastasiya A. Bonch-Osmolovskaya</a>
+      thesis title:  <a href="https://www.hse.ru/en/en/ma/ling/students/diplomas/page3.html/296305974">Entity Disambiguation to Wikipedia for Languages with Different Corpora Volumes</a>
+    - title: Bachelor's degree (with honors) in Fundamental and Computational Linguistics
+      institution: HSE University, Nizhny Novgorod, Russia
+      year: 2017
+      supervisor: <a href="https://ch.linkedin.com/in/irina-utkina-6697bab3">Irina Utkina</a>, <a href="https://scholar.google.ae/citations?user=JAsZeNsAAAAJ&hl=en&oi=ao">Alexey Malafeev</a>
+      thesis title: <a href="https://nnov.hse.ru/en/ba/ling/students/diplomas/206735620">Automatic Information Extraction about Persons from News Articles</a>
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: (Postdoctorate) Research Assistant
+      institution: Universität Hamburg, Germany 
+      year: 2022 - 2025
+      description: 
+        - <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/research/acqua.html">ACQuA-2.0 project</a>, “Development of the Comparative Question Answering system“ hosted by <a href="https://scholar.google.com/citations?user=BdwP-3QAAAAJ&hl=en&oi=ao">Chris Biemann</a>
+        
+
+- title: Organizing Experience
+  type: time_table
+  contents:
+    - title: <a href="https//www.aistconf.org">Analysis of Images, Social Networks and Texts</a>
+      year: 2020-now
+      description: 
+        - a member of AIST organizing committee, 
+        - conference management, contacting authors/participants, call for papers design and distribution, sending invitations to the reviewers, website design and publishing updates on the website.
+
+- title: Invited Talks
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - HSE University, Guest seminar on “Taxonomy Enrichment with LLMs”
+        - ISLE Expert Online Forum, Panelist on the topic “Linguistics versus AI”
+    - year: 2023
+      items: 
+        - MBZUAI, UAE, Guest talk on “Comparative Question Answering“ and “Taxonomy Enrichment“
+        - NLP Group in Oslo, Norway, Guest seminar on “Taxonomy Enrichment“ (based on PhD thesis)
+  
+- title: Summer School and Conference participation
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - HPLT & NLPL Winter School on Large-Scale Language Modeling and Neural Machine Translation with Web Data
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Question Answering, 
+    - title: Argument Mining,
+    - title: Retrieval Augmented Generation, 
+    - title: Lexical Semantics, 
+    - title: Taxonomies, Taxonomy Enrichment, 
+    - title: Detoxification, 
+    - title: Relation Extraction, 
+    - title: Entity Linking, 
+    - title: Entity Disambiguation, 
+    - title: Linguistics
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> traveling, museums, art galleries,painting, handmade beaded jewelry, France, French culture, foreign languages, gym, ping-pong, snowboarding
