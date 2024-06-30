@@ -60,13 +60,21 @@
       items: 
         - MBZUAI, UAE, Guest talk on <i>“Comparative Question Answering“</i> and <i>“Taxonomy Enrichment“</i>
         - NLP Group in Oslo, Norway, Guest seminar on <i>“Taxonomy Enrichment“</i> (based on PhD thesis)
+    - year: 2022
+      items: 
+        - Guest seminar on <i>“Taxonomy Enrichment“</i> (based on the PhD thesis)
+        - Indiana University, USA, Guest seminar on <i>“Taxonomy Enrichment“</i> (based on the PhD thesis)
+    - year: 2021
+      items: 
+        - AIST conference, Tbilisi, Georgia, Guest talk on <i>“Taxonomy Enrichment with Texts and Graph Vector Representations“</i>
   
 - title: Summer School and Conference participation
   type: time_table
   contents:
     - year: 2023
       items:
-        - HPLT & NLPL Winter School on Large-Scale Language Modeling and Neural Machine Translation with Web Data
+        - <a href="https://list.elra.info/mailman3/hyperkitty/list/corpora@list.elra.info/thread/P62W2RSMMBHVO3CYUNROHUAGVLZRHUUN/?sort=date">HPLT & NLPL Winter School on Large-Scale Language Modeling and Neural Machine Translation with Web Data</a>
+        - <a href="https://www.oxfordml.school/oxml2021">Oxford Machine Learning Summer School 2021</a>
 
 - title: Academic Interests
   type: nested_list
