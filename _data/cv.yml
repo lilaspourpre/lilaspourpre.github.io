@@ -14,18 +14,21 @@
     - title: PhD in Computer Science
       institution: Skoltech, Moscow, Russia
       year: 2022
-      supervisor: <a href="https://www.google.com/search?client=safari&rls=en&q=alexander+panchenko&ie=UTF-8&oe=UTF-8">Alexander Panchenko</a>
-      thesis title: <a href="https://www.skoltech.ru/app/data/uploads/2022/09/thesis6.pdf">Learning Linguistic Tree Structures with Text and Graph Methods</a>
+      description: 
+        - supervisor <a href="https://www.google.com/search?client=safari&rls=en&q=alexander+panchenko&ie=UTF-8&oe=UTF-8">Alexander Panchenko</a>
+        - thesis title <a href="https://www.skoltech.ru/app/data/uploads/2022/09/thesis6.pdf">Learning Linguistic Tree Structures with Text and Graph Methods</a>
     - title: Master's degree (with honors) in Computational Linguistics
       institution: HSE University, Moscow, Russia
       year: 2019
-      supervisor: <a href="https://scholar.google.com/citations?user=3uvZfeYAAAAJ&hl=en&oi=ao">Anastasiya A. Bonch-Osmolovskaya</a>
-      thesis title:  <a href="https://www.hse.ru/en/en/ma/ling/students/diplomas/page3.html/296305974">Entity Disambiguation to Wikipedia for Languages with Different Corpora Volumes</a>
+      description:
+        - supervisor <a href="https://scholar.google.com/citations?user=3uvZfeYAAAAJ&hl=en&oi=ao">Anastasiya A. Bonch-Osmolovskaya</a>
+        - thesis title  <a href="https://www.hse.ru/en/en/ma/ling/students/diplomas/page3.html/296305974">Entity Disambiguation to Wikipedia for Languages with Different Corpora Volumes</a>
     - title: Bachelor's degree (with honors) in Fundamental and Computational Linguistics
       institution: HSE University, Nizhny Novgorod, Russia
       year: 2017
-      supervisor: <a href="https://ch.linkedin.com/in/irina-utkina-6697bab3">Irina Utkina</a>, <a href="https://scholar.google.ae/citations?user=JAsZeNsAAAAJ&hl=en&oi=ao">Alexey Malafeev</a>
-      thesis title: <a href="https://nnov.hse.ru/en/ba/ling/students/diplomas/206735620">Automatic Information Extraction about Persons from News Articles</a>
+      description:
+        - supervisor <a href="https://ch.linkedin.com/in/irina-utkina-6697bab3">Irina Utkina</a>, <a href="https://scholar.google.ae/citations?user=JAsZeNsAAAAJ&hl=en&oi=ao">Alexey Malafeev</a>
+        - thesis title <a href="https://nnov.hse.ru/en/ba/ling/students/diplomas/206735620">Automatic Information Extraction about Persons from News Articles</a>
 
 - title: Work Experience
   type: time_table
