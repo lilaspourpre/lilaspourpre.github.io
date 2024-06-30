@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: teaching
 permalink: /teaching/
 title: teaching
 description: Courses I taught and supervised students.
