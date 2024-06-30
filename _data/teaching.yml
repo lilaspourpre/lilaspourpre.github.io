@@ -5,14 +5,30 @@
       institution: HSE, online
       year: 2023-now
       description:
-      - supervisor <a href="https://www.google.com/search?client=safari&rls=en&q=alexander+panchenko&ie=UTF-8&oe=UTF-8">Alexander Panchenko</a>
-      - thesis title <a href="https://www.skoltech.ru/app/data/uploads/2022/09/thesis6.pdf">Learning Linguistic Tree Structures with Text and Graph Methods</a>
+      - Project on enhancing LLM with Taxonomic structures
+      - led to the paper accepted to LREC-COLING 2024 <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2024-moskvoretskii-llmstaxo.pdf">Are Large Language Models Good at Lexical Semantics? A Case of Taxonomy Learning</a>, to ACL 2024 <a href="https://arxiv.org/pdf/2403.09207.pdf">TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Sematic Tasks</a> and to <a href="https://arxiv.org/abs/2406.12564">Low-Resource Machine Translation through the Lens of Personalized Federated Learning</a>
+    - title: Ahmad Shallouf
+      institution: Universität Hamburg
+      year: 2024
+      descripion:
+        - master thesis ”CompGLUE: Datasets and Evaluation System for Comparative Question Answering Tasks”
+        - led to the paper accepted to LREC-COLING 2024 <a href="https://aclanthology.org/2024.lrec-main.238/">CAM 2.0: End-to-End Open Domain Comparative Question Answering System</a>
 
-- title: Work Experience
+- title: Courses I taught
   type: time_table
   contents:
-    - title: (Postdoctorate) Research Assistant
-      institution: Universität Hamburg, Germany 
-      year: 2022 - 2025
+    - title: Course on Transformers
+      institution: MSc students & Data Scientists in the Industry
+      year: 2022 - 2024
       description: 
-        - <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/research/acqua.html">ACQuA-2.0 project</a>, “Development of the Comparative Question Answering system“ hosted by <a href="https://scholar.google.com/citations?user=BdwP-3QAAAAJ&hl=en&oi=ao">Chris Biemann</a>
+        - <a href="https://github.com/s-nlp/transformers-course/">github repository</a>, <a href="https://github.com/s-nlp/transformers-course/">paper with the course description, accepted to TeachNLP ACL workshop</a>
+    - title: Lecture on Encoder and Decoder Transformers (en)
+      institution: <a href="https://ai-dt.school/generative-ai/">AI & DT school</a> on Transformers
+      year: 2024
+      description: 
+        - duration 1 hour, 
+        - audience Generative AI school participants
+    - title: <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/teaching/ma-projects/master-project-web-interfaces.html">Web interfaces for Language Technology Systems</a>
+      institution: Universität Hamburg, MSc students in Computer Science
+      description:
+        - Teaching Assistant
