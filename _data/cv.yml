@@ -59,23 +59,23 @@
       institution: <a href="https://www.innoscripta.com/de/de">Innoscripta</a>
       year: 2021
       description: Developing system for keyword search, improve NER for extracting keywords and German product names, management of keyword annotation in Doccano for the German language
-    - title: research assistant in Python and Java in the <a href="https://www.ispras.ru/en/technologies/texterra/">Texterra</a> team
+    - title: Research assistant in Python and Java in the <a href="https://www.ispras.ru/en/technologies/texterra/">Texterra</a> team
       institution: <a href="https://www.ispras.ru/en/">ISP RAS</a>
       year: 2017-2019
       description: 
         - NLP research in Entity Linking, writing research articles
         - supervisors <a href="https://scholar.google.com/citations?user=YYoqDR4AAAAJ&hl=en&oi=ao">Andrey Sysoev</a> and <a href="https://scholar.google.dk/citations?user=ByNnUeIAAAAJ&hl=da">Ivan Andrianov</a>
-    - title: summer internship
+    - title: Summer internship
       institution: MrBot
       year: 2018
       description: 
         - Developing dialogue system architecture in Python
-    - title: junior software engineer
+    - title: Junior software engineer
       institution: <a href="https://nn.edu-netcracker.com">NetCracker</a>
       year: 2017
       description: 
         - Developing a T-SDN controller automatic testing system (selenium, requests, openpyxl, pyyaml)
-    - title: summer internship
+    - title: Summer internship
       institution: <a href="https://www.univ-fcomte.fr">Franche-Comte University, Besancon, France</a>
       year: 2016
       description: 
@@ -116,6 +116,31 @@
       items:
         - <a href="https://list.elra.info/mailman3/hyperkitty/list/corpora@list.elra.info/thread/P62W2RSMMBHVO3CYUNROHUAGVLZRHUUN/?sort=date">HPLT & NLPL Winter School on Large-Scale Language Modeling and Neural Machine Translation with Web Data</a>
         - <a href="https://www.oxfordml.school/oxml2021">Oxford Machine Learning Summer School 2021</a>
+    - year: 2021
+      items:
+        - <a href="https://list.elra.info/mailman3/hyperkitty/list/corpora@list.elra.info/thread/P62W2RSMMBHVO3CYUNROHUAGVLZRHUUN/?sort=date">HPLT & NLPL Winter School on Large-Scale Language Modeling and Neural Machine Translation with Web Data</a>, Norway
+        - <a href="https://www.oxfordml.school/oxml2021">Oxford Machine Learning Summer School 2021</a>, online
+        - <a href="http://alps-2021.imag.fr/index.html">Advanced Language Processing Winter School 2021</a>, online
+    - year: 2020
+      items:
+        - <a href="https://smiles.skoltech.ru/school-2020">The Summer School of Machine Learning</a> at Skoltech (SMILES)
+    - year: 2019
+      items:
+        - <a href="https://www.df.lu.lv/en/research/conferences/esslli-2019">31st European Summer School in Logic, Language line and Information</a>, Riga, Latvia
+        - <a href="https://2019.aistconf.org">8th International Conference --- Analysis of Images, Social Networks and Texts</a> AIST 2019
+    - year: 2017
+      items:
+        - <a href="https://smiles.skoltech.ru/school-2020">The Summer School of Machine Learning</a> at Skoltech (SMILES)
+        - <a href="https://hum.hse.ru/en/digital/school/2017/"> Summer School in Digital Humanities</a>
+        - <a href="http://skil-rggu.ru/category/скил-2017">Student Conference of the Institute of Linguistics (SKIL)</a>
+    - year: 2016
+      items:
+        - <a href="https://nnov.hse.ru/en/news/194813366.html">ConCorT (Student Session)</a>
+    - year: 2014
+      items:
+        - <a href="https://ling.hse.ru/en/iss">Indian Summer School in Linguistics</a>
+        - <a href="https://www.hse.ru/en/news/111363137.html">ConCorT Junior (Student Conference)</a>
+        - <a href="https://www.hse.ru/data/2014/02/18/1330828826/StudKonf\%202014\_Program.pdf">Literature - histoiry, theories, comparativistics (Student Conference))</a>
 
 - title: Academic Interests
   type: nested_list
