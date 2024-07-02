@@ -48,30 +48,6 @@
       year: 2023
       description:
         - led to the LREC-COLING 2024 paper <a href="https://aclanthology.org/2024.lrec-main.238/">CAM 2.0: End-to-End Open Domain Comparative Question Answering System</a>
-    - title: Maria Maslova, Stefan Rebrikov
-      institution: HSE University
-      year: 2022-2023
-      description:
-        - master project supervision ”Russian Comparative Argumentative Machine”
-        - led to the AIST 2023 paper <a href="https://link.springer.com/chapter/10.1007/978-3-031-54534-4_6">”RuCAM: Russian Comparative Argumentative Machine”</a>
-    - title: Polina Chernomorchenko
-      institution: HSE University
-      year: 2022-2023
-      description:
-        - BSc student thesis supervision ”Automatic Taxonomy Enrichment Using Generative Models”
-        - led to the led to 2 papers published at <a href="http://www.ijcnlp-aacl2023.org">AACL-2023</a> and <a href="http://aistconf.org">AIST-2023</a> conferences <a href="https://aclanthology.org/2023.findings-ijcnlp.12.pdf">”Predicting Terms in IS-A Relations with Pre-trained Transformers”</a> and <a href="https://link.springer.com/chapter/10.1007/978-3-031-54534-4_4">”Leveraging Taxonomic Information from Large Language Models for Hyponymy Prediction”</a>
-    - title: Alsu Vakhitova
-      institution: Skoltech
-      year: 2022
-      description:
-        - MSc student thesis supervision ”Candidate-free taxonomy enrichment with pre-trained neural language models”
-        - led to the led to 2 papers published at <a href="https://aaclweb.org">AACL-2022</a> and <a href="https://sites.google.com/view/textgraphs2022">TextGraph-16 Workshop</a> <a href="https://aclanthology.org/2022.aacl-demo.5.pdf">”TaxFree: a Visualization Tool for Candidate-free Taxonomy Enrichment”</a> and <a href="https://aclanthology.org/2022.textgraphs-1.2.pdf">”Cross-modal contextualized hidden state projection method for expanding of taxonomic graphs”</a>
-    - title: Anna Safaryan, Petr Filchenkov, Weijia Yan
-      institution: HSE University
-      year: 2020-2021
-      description:
-        - MSc student project co-supervision with <a href="https://scholar.google.com/citations?user=Jq4Wq7AAAAAJ&hl=da">Andrey Kutuzov</a>
-        - led to a paper published at <a href="https://2020.aistconf.org">AIST-2020</a> <a href="https://link.springer.com/chapter/10.1007/978-3-030-71214-3_3">”Semantic Recommendation System for Bilingual Corpus of Academic Papers”</a>
 
        
 - title: Courses I taught
