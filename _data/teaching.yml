@@ -84,32 +84,60 @@
       description: 
         - duration 1 hour, 
         - audience Generative AI school participants
-    - title: Course on Transformers
+   - title: Course on Transformers
       institution: MSc students & Data Scientists in the Industry
       year: 2022 - 2024
       description: 
         - <a href="https://github.com/s-nlp/transformers-course/">github repository</a>, <a href="https://github.com/s-nlp/transformers-course/">paper with the course description, accepted to TeachNLP ACL workshop</a>
-    - title: <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/teaching/ma-projects/master-project-web-interfaces.html">Web interfaces for Language Technology Systems</a>
-      institution: Universität Hamburg, MSc students in Computer Science
+   - title: <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/teaching/ma-projects/master-project-web-interfaces.html">Web interfaces for Language Technology Systems</a>
+      institution: Universität Hamburg
       year: 2023
       description:
-        - Teaching Assistant
-    - title: Neural Natural Language Processing (en)
+        - audience MSc students in Computer Science
+   - title: Neural Natural Language Processing (en)
       institution: HSE University, online
       year: 2021-2023
       description: 
         - duration Terms 1 and 2
         - audience 4th year BSc students in Fundamental and Applied Linguistics 
         - links <a href="https://github.com/lilaspourpre/nnlp-cl-2022">Github</a>
-    - title: Machine Learning 2 (en)
+   - title: Machine Learning 2 (en)
       institution: HSE University, online
       year: 2021-2022
       description: 
         - duration Terms 2 and 3
         - audience 4th year BSc students in Data Science and Business Analytics
-    - title: Neural Natural Language Processing (en)
+   - title: Neural Natural Language Processing (en)
       institution: HSE University, online
       year: 2021-2022
       description: 
         - duration Term 4
         - audience MSc students in Computer Scince
+    - title: Statistical Natural Language Processing (en)
+      institution: HSE University, online
+      year: 2021-2022
+      description: 
+        - <a href="http://files.skoltech.ru/data/edu/syllabuses/2023/MA030555.pdf?v=b3tej0">Course link</a>
+        - duration Term 2
+        - audience MSc students in Computer Scince
+    - title: Applied Research in Culture (ru)
+      institution: HSE University, online
+      year: 2020-2022
+      description: 
+        - <a href="https://www.hse.ru/en/edu/courses/751603509">Course link</a>, <a href="https://github.com/lilaspourpre/hse_culture_python">Github</a>
+        - duration Term 1
+        - audience MSc students in Applied Cultural Studies
+    - title: Programming and Linguistic Data (ru)
+      institution: HSE University
+      year: 2020-2021
+      description: 
+        - <a href="https://www.hse.ru/en/edu/courses/480296949">Course link</a>, <a href="https://github.com/pykili/pykili.github.io">Github</a>
+        - duration Terms 1-4
+        - audience 1st year BSc students in Applied Linguistics
+    - title: Digital Literacy (ru)
+      institution: HSE University
+      year: 2019-2020
+      description: 
+        - <a href="https://www.hse.ru/en/edu/courses/480296949">Course link</a>, <a href="https://github.com/pykili/pykili.github.io">Github</a>
+        - duration Terms 1-4
+        - 1st year BSc students in Applied Cultural Studies 
