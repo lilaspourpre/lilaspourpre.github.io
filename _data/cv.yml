@@ -23,6 +23,19 @@
       description:
         - supervisor <a href="https://scholar.google.com/citations?user=3uvZfeYAAAAJ&hl=en&oi=ao">Anastasiya A. Bonch-Osmolovskaya</a>
         - thesis title  <a href="https://www.hse.ru/en/en/ma/ling/students/diplomas/page3.html/296305974">Entity Disambiguation to Wikipedia for Languages with Different Corpora Volumes</a>
+    - title: Java and Oracle courses
+      institution: <a href="https://www.innoscripta.com/de/de">Innoscripta</a>
+      year: 2017
+      description:
+        - advisor <a href="https://www.linkedin.com/pub/dir/Dmitry/Amosov">Dmitry Amosov</a>
+        - Oracle, Java, OOP, MapReduce, Postgres, Spring, ONOS, GWT, Ajax
+        - final project Developing a T-SDN controller tester (using selenium, requests, openpyxl, pyyaml Python libraries
+    - title: Exchange Program
+      institution: <a href="https://www.univ-fcomte.fr">Franche-Comte University, France</a>
+      year: 2016
+      description:
+        - semester spent at Franche-Comte University, courses language was French 
+        - internship project Developing a Python tool for interpreting queries in Relational Algebra
     - title: Bachelor's degree (with honors) in Fundamental and Computational Linguistics
       institution: HSE University, Nizhny Novgorod, Russia
       year: 2017
@@ -38,7 +51,35 @@
       year: 2022 - 2025
       description: 
         - <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/research/acqua.html">ACQuA-2.0 project</a>, <i>“Development of the Comparative Question Answering system“</i> hosted by <a href="https://scholar.google.com/citations?user=BdwP-3QAAAAJ&hl=en&oi=ao">Chris Biemann</a>
-        
+    - title: Research Engineer (Python)
+      institution: <a href="http://www.skoltech.ru/en">Skoltech</a>
+      year: 2021-2022
+      description: dataset annotation and annotation verification; technical support for the Text Detoxification project
+    - title: Data Scientist, Python NLP engineer
+      institution: <a href="https://www.innoscripta.com/de/de">Innoscripta</a>
+      year: 2021
+      description: Developing system for keyword search, improve NER for extracting keywords and German product names, management of keyword annotation in Doccano for the German language
+    - title: research assistant in Python and Java in the <a href="https://www.ispras.ru/en/technologies/texterra/">Texterra</a> team
+      institution: <a href="https://www.ispras.ru/en/">ISP RAS</a>
+      year: 2017-2019
+      description: 
+        - NLP research in Entity Linking, writing research articles
+        - supervisors <a href="https://scholar.google.com/citations?user=YYoqDR4AAAAJ&hl=en&oi=ao">Andrey Sysoev</a> and <a href="https://scholar.google.dk/citations?user=ByNnUeIAAAAJ&hl=da">Ivan Andrianov</a>
+    - title: summer internship
+      institution: MrBot
+      year: 2018
+      description: 
+        - Developing dialogue system architecture in Python
+    - title: junior software engineer
+      institution: <a href="https://nn.edu-netcracker.com">NetCracker</a>
+      year: 2017
+      description: 
+        - Developing a T-SDN controller automatic testing system (selenium, requests, openpyxl, pyyaml)
+    - title: summer internship
+      institution: <a href="https://www.univ-fcomte.fr">Franche-Comte University, Besancon, France</a>
+      year: 2016
+      description: 
+        - Developing a Python tool for interpreting queries in Relational Algebra
 
 - title: Organizing Experience
   type: time_table
