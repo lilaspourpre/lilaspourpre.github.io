@@ -15,8 +15,10 @@
       institution: Skoltech, Moscow, Russia
       year: 2022
       description: 
-        - supervisor <a href="https://www.google.com/search?client=safari&rls=en&q=alexander+panchenko&ie=UTF-8&oe=UTF-8">Alexander Panchenko</a>
-        - thesis title <a href="https://www.skoltech.ru/app/data/uploads/2022/09/thesis6.pdf">Learning Linguistic Tree Structures with Text and Graph Methods</a>
+        - 
+        supervisor <a href="https://www.google.com/search?client=safari&rls=en&q=alexander+panchenko&ie=UTF-8&oe=UTF-8">Alexander Panchenko</a>
+        - 
+        thesis title <a href="https://www.skoltech.ru/app/data/uploads/2022/09/thesis6.pdf">Learning Linguistic Tree Structures with Text and Graph Methods</a>
     - title: Master's degree (with honors) in Computational Linguistics
       institution: HSE University, Moscow, Russia
       year: 2019
@@ -85,10 +87,48 @@
   type: time_table
   contents:
     - title: <a href="https//www.aistconf.org">Analysis of Images, Social Networks and Texts</a>
-      year: 2020-now
+      year: 2024
       description: 
         - a member of AIST organizing committee, 
         - conference management, contacting authors/participants, call for papers design and distribution, sending invitations to the reviewers, website design and publishing updates on the website.
+    - title: <a href="https://sites.google.com/view/textgraphs2024">TextGraphs-17</a>
+      year: 2024
+      description: 
+        - member of TextGraphs-17 organizing committee Graph-based Methods for Natural Language Processing collocated with ACL-2024 in Bangkok, Thailand on August 11–16, 2024
+        - organizing <a href="https://sites.google.com/view/textgraphs2024/home/shared-task">shared task</a> in <a href="https://codalab.lisn.upsaclay.fr/competitions/18214">Codalab</a>
+    - title: <a href="https//www.2023.aistconf.org">Analysis of Images, Social Networks and Texts</a>
+      year: 2023
+      description: 
+        - a member of AIST organizing committee, 
+        - conference management, contacting authors/participants, call for papers design and distribution, sending invitations to the reviewers, website design and publishing updates on the website.
+    - title: <a href="https://www.dialog-21.ru/en/dialogue-evaluation/competitions/dialogue-evaluation-2022/ruarg-2022/">RuArg-2022 shared task</a>
+      year: 2022
+      description: 
+        - organizer of Dialogue 2022 shared task on Argument Mining for the Russian Language
+        - links - <a href="https://github.com/dialogue-evaluation/RuArg">Github</a>, <a href="https://codalab.lisn.upsaclay.fr/competitions/786">CodaLab</a>
+    - title: <a href="https://russe.nlpub.org/2022/tox/RUSSE'2022 shared task">RUSSE'2022 shared task</a>
+      year: 2022
+      description: 
+        - organiser of the shared task on Russian Text Detoxification Based on Parallel Corpora for the Dialogue-2022 conference
+        - links <a href="https://github.com/s-nlp/russe_detox_2022/">Github</a>, <a href="https://codalab.lisn.upsaclay.fr/competitions/642">CodaLab</a>
+    - title: <a href="https//www.2021.aistconf.org">Analysis of Images, Social Networks and Texts</a>
+      year: 2021
+      description: 
+        - a member of AIST organizing committee, 
+        - conference management, contacting authors/participants, call for papers design and distribution, sending invitations to the reviewers, website design and publishing updates on the website.
+    - title: <a href="https//www.2020.aistconf.org">Analysis of Images, Social Networks and Texts</a>
+      year: 2020
+      description: 
+        - a member of AIST organizing committee, 
+        - conference management, contacting authors/participants, call for papers design and distribution, sending invitations to the reviewers, website design and publishing updates on the website.
+    - title: <a href="https://russe.nlpub.org/2020/isa/">RUSSE'2020 shared task</a>
+      year: 2020
+      description: 
+        - organiser of the shared task on Taxonomy enrichment for the Dialogue-2020 conference
+        - links - <a href="https://github.com/dialogue-evaluation/taxonomy-enrichment">Github</a>, <a href="https://competitions.codalab.org/competitions/22168">CodaLab</a>
+
+
+
 
 - title: Invited Talks
   type: time_table
