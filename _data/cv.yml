@@ -207,6 +207,11 @@
         - <a href="https://www.hse.ru/en/news/111363137.html">ConCorT Junior (Student Conference)</a>
         - <a href="https://www.hse.ru/data/2014/02/18/1330828826/StudKonf\%202014\_Program.pdf">Literature - histoiry, theories, comparativistics (Student Conference))</a>
 
+- title: Awards
+  type: nested_list
+  contents:
+    - title: <a href="https://www.skoltech.ru/en/2021/11/skoltech-students-won-third-place-at-the-2021-junction-hackathon/">Junction 2021, Empathy Challenge</a>: third prize. The adaptation of text detoxification research results for a gaming industry use-case.
+
 - title: Academic Interests
   type: nested_list
   contents:
