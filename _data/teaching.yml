@@ -1,15 +1,35 @@
 - title: Student Supervision
   type: time_table
   contents:
+    - title: Artyom Serikov, Ksenia Artamonova, Denis Vasyov
+      institution: HSE, online
+      year: Oct 2025–present
+      description:
+        - Low-resource taxonomy construction using LLMs.
+    - title: Polina Fedorinina, Anna Fattakhova
+      institution: HSE, online
+      year: Oct 2025–present
+      description:
+        - Project on the psychopathological portrait of LLMs.
+    - title: Bishap Pokharel
+      institution: Universität Hamburg
+      year: Apr 2025–Jan 2026
+      description:
+        - 'MSc thesis: Leveraging LLMs for Enhanced Drug Discovery: Extracting Insights from Patents.'
+    - title: Emily Mrozek
+      institution: Universität Hamburg
+      year: Apr 2025–Mar 2026
+      description:
+        - MSc thesis on multimodal LLMs for taxonomies.
     - title: <a href="https://scholar.google.ae/citations?user=3IDoK8YAAAAJ&hl=en&oi=ao">Viktor Moskvoretskii</a>
       institution: HSE, online
-      year: 2023-now
+      year: Apr 2023–Aug 2025
       description:
       - Project on enhancing LLM with Taxonomic structures
       - led to the LREC-COLING 2024 paper <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2024-moskvoretskii-llmstaxo.pdf">Are Large Language Models Good at Lexical Semantics? A Case of Taxonomy Learning</a>, to the ACL 2024 paper <a href="https://arxiv.org/pdf/2403.09207.pdf">TaxoLLaMA\: WordNet-based Model for Solving Multiple Lexical Sematic Tasks</a> and to <a href="https://arxiv.org/abs/2406.12564">Low-Resource Machine Translation through the Lens of Personalized Federated Learning</a>
     - title: Ahmad Shallouf
       institution: Universität Hamburg
-      year: 2024
+      year: Jan 2024–Jan 2025
       description:
         - master thesis ”CompGLUE\: Datasets and Evaluation System for Comparative Question Answering Tasks”
         - led to the LREC-COLING 2024 paper <a href="https://aclanthology.org/2024.lrec-main.238/">CAM 2.0: End-to-End Open Domain Comparative Question Answering System</a>
@@ -18,6 +38,7 @@
       year: 2024
       description:
         - master thesis ”Development and Evaluation of an IT Tool for ESG Compliance Consulting for Companies Using LLMs”
+        - Published as ESG-Consultant at NLDB 2025 (Demo).
     - title: Jan Strich
       institution: Universität Hamburg
       year: 2024

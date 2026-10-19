@@ -6,12 +6,12 @@
     - name: Date of Birth
       value: 13th December 1995
     - name: Languages
-      value: Russian, English, French, German
+      value: Russian (native), English (CAE C1), French (DALF C1), German (Goethe-Zertifikat B2), Arabic (A2)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
+    - title: PhD in Computational and Data Science and Engineering
       institution: Skoltech, Moscow, Russia
       year: 2022
       description: 
@@ -24,8 +24,8 @@
         - supervisor <a href="https://scholar.google.com/citations?user=3uvZfeYAAAAJ&hl=en&oi=ao">Anastasiya A. Bonch-Osmolovskaya</a>
         - thesis title  <a href="https://www.hse.ru/en/en/ma/ling/students/diplomas/page3.html/296305974">Entity Disambiguation to Wikipedia for Languages with Different Corpora Volumes</a>
     - title: Java and Oracle courses
-      institution: <a href="https://www.innoscripta.com/de/de">Innoscripta</a>
-      year: 2017
+      institution: NetCracker, Nizhny Novgorod, Russia
+      year: 2016–2017
       description:
         - advisor <a href="https://www.linkedin.com/pub/dir/Dmitry/Amosov">Dmitry Amosov</a>
         - Oracle, Java, OOP, MapReduce, Postgres, Spring, ONOS, GWT, Ajax
@@ -36,7 +36,7 @@
       description:
         - semester spent at Franche-Comte University, courses language was French 
         - internship project Developing a Python tool for interpreting queries in Relational Algebra
-    - title: Bachelor's degree (with honors) in Fundamental and Computational Linguistics
+    - title: Bachelor's degree (with honors) in Fundamental and Applied Linguistics
       institution: HSE University, Nizhny Novgorod, Russia
       year: 2017
       description:
@@ -46,9 +46,19 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: (Postdoctorate) Research Assistant
+    - title: Postdoctoral Researcher
+      institution: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE
+      year: Sep 2026–present
+      description:
+        - Hosted by <a href="https://scholar.google.ca/citations?user=0Cyfqv4AAAAJ">Alham Fikri Aji</a>
+    - title: Independent Researcher
+      institution: Abu Dhabi, UAE
+      year: Sep 2025–Sep 2026
+      description:
+        - Collaboration with MBZUAI; student supervision at Universität Hamburg and HSE University; AIST 2026 organizing committee.
+    - title: Postdoctoral Researcher
       institution: Universität Hamburg, Germany 
-      year: 2022 - 2025
+      year: Aug 2022–Sep 2025
       description: 
         - <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/research/acqua.html">ACQuA-2.0 project</a>, <i>“Development of the Comparative Question Answering system“</i> hosted by <a href="https://scholar.google.com/citations?user=BdwP-3QAAAAJ&hl=en&oi=ao">Chris Biemann</a>
     - title: Research Engineer (Python)
@@ -84,7 +94,12 @@
 - title: Organizing Experience
   type: time_table
   contents:
-    - title: <a href="https//www.aistconf.org">Analysis of Images, Social Networks and Texts</a>
+    - title: <a href="https://aistconf.org">AIST 2026</a>
+      year: Jan–Oct 2026
+      description:
+        - Organizing committee member, Astana, Kazakhstan.
+        - Conference management, call for papers, and website updates.
+    - title: <a href="https://www.aistconf.org">Analysis of Images, Social Networks and Texts</a>
       year: 2024
       description: 
         - a member of AIST organizing committee, 
@@ -94,7 +109,7 @@
       description: 
         - member of TextGraphs-17 organizing committee Graph-based Methods for Natural Language Processing collocated with ACL-2024 in Bangkok, Thailand on August 11–16, 2024
         - organizing <a href="https://sites.google.com/view/textgraphs2024/home/shared-task">shared task</a> in <a href="https://codalab.lisn.upsaclay.fr/competitions/18214">Codalab</a>
-    - title: <a href="https//www.2023.aistconf.org">Analysis of Images, Social Networks and Texts</a>
+    - title: <a href="https://www.2023.aistconf.org">Analysis of Images, Social Networks and Texts</a>
       year: 2023
       description: 
         - a member of AIST organizing committee, 
@@ -109,12 +124,12 @@
       description: 
         - organiser of the shared task on Russian Text Detoxification Based on Parallel Corpora for the Dialogue-2022 conference
         - links <a href="https://github.com/s-nlp/russe_detox_2022/">Github</a>, <a href="https://codalab.lisn.upsaclay.fr/competitions/642">CodaLab</a>
-    - title: <a href="https//www.2021.aistconf.org">Analysis of Images, Social Networks and Texts</a>
+    - title: <a href="https://www.2021.aistconf.org">Analysis of Images, Social Networks and Texts</a>
       year: 2021
       description: 
         - a member of AIST organizing committee, 
         - conference management, contacting authors/participants, call for papers design and distribution, sending invitations to the reviewers, website design and publishing updates on the website.
-    - title: <a href="https//www.2020.aistconf.org">Analysis of Images, Social Networks and Texts</a>
+    - title: <a href="https://www.2020.aistconf.org">Analysis of Images, Social Networks and Texts</a>
       year: 2020
       description: 
         - a member of AIST organizing committee, 
@@ -128,9 +143,12 @@
 - title: Reviewing
   type: time_table
   contents:
+    - title: ACL Rolling Review (ARR)
+      items:
+        - Area chair since September 2025; 10 papers in October 2025 and 5 in January 2026.
     - title: <a href="https://aclanthology.org/venues/acl/">ACL</a>
       items: 
-        - 4 papers in 2024, 3 papers in 2023, 1 paper in 2020 as subreviewer
+        - 8 papers in 2025, 4 papers in 2024, 3 papers in 2023, 1 paper in 2020 as subreviewer
     - title: <a href="https://2023.emnlp.org">EMNLP</a>
       items: 
         - 4 papers 2024, 3 papers in 2023
@@ -158,6 +176,10 @@
 - title: Invited Talks
   type: time_table
   contents:
+    - year: March 2025
+      items:
+        - MBZUAI, UAE — Application of Large Language Models to Comparative QA and Low-Resource Languages.
+        - University of Copenhagen, Denmark — Application of Large Language Models to Comparative QA and Low-Resource Languages.
     - year: 2024
       items: 
         - HSE University, Guest seminar on <i>“Taxonomy Enrichment with LLMs”</i>
